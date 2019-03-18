@@ -1,0 +1,9 @@
+body{
+    background: hotpink;
+    /* transform: rotate(45deg); */
+}
+.sxq{
+    width: 100px;
+    height: 100px;
+    background: url("./goback.png");
+}
